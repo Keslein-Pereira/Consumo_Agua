@@ -13,17 +13,12 @@ O sistema recebe o tipo de imóvel e o consumo mensal de água em metros cúbico
 ![Água](https://img.shields.io/badge/Água-Consumo-00AEEF?style=for-the-badge)
 
 ## Como executar
-
 1. Tenha o Python instalado no computador.
-2. Baixe este repositório
-3. Abra a pasta "consumo-agua".
-4. Execute o arquivo `app.py` pelo Python.
+2. Baixe ou clone este repositório.
+3. Abra a pasta Consumo_agua.
+4. Execute o arquivo app.py pelo Python.
 
-No terminal:
-
-```bash
-python app.py
-```
+terminal: python app.py
 
 ## Funcionamento
 
