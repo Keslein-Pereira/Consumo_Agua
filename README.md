@@ -8,9 +8,9 @@ O sistema recebe o tipo de imóvel e o consumo mensal de água em metros cúbico
 
 🛠️ Tecnologias utilizadas
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Repositório-black)
-![Água](https://img.shields.io/badge/Água-Consumo-00AEEF)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white)
+![Água](https://img.shields.io/badge/%C3%81gua-Consumo-00AEEF?style=for-the-badge)
 
 ▶️ Como executar
 1. Tenha o Python instalado no computador.
@@ -19,6 +19,8 @@ O sistema recebe o tipo de imóvel e o consumo mensal de água em metros cúbico
 4. Execute o arquivo app.py pelo Python.
 
  terminal:
+
+```bash
 
 python `app.py`
 
