@@ -6,20 +6,16 @@ Este projeto foi desenvolvido para uma atividade de Desenvolvimento de Sistemas 
 
 O sistema recebe o tipo de imóvel e o consumo mensal de água em metros cúbicos (m³). Depois, verifica as condições definidas e apresenta a classificação correspondente.
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Repositório-black)
-![Água](https://img.shields.io/badge/Água-Consumo-00AEEF)
-
-* Python
-* GitHub
-* VS Code
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Repositório-black?style=for-the-badge)
+![Água](https://img.shields.io/badge/Água-Consumo-00AEEF?style=for-the-badge)
 
 ## Como executar
 
 1. Tenha o Python instalado no computador.
-2. Baixe ou clone este repositório.
+2. Baixe este repositório.
 3. Abra a pasta `consumo-agua`.
 4. Execute o arquivo `app.py` pelo Python.
 
