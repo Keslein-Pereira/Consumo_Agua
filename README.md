@@ -16,7 +16,7 @@ O sistema recebe o tipo de imóvel e o consumo mensal de água em metros cúbico
 
 1. Tenha o Python instalado no computador.
 2. Baixe este repositório
-3. Abra a pasta  `consumo-agua`.
+3. Abra a pasta "consumo-agua".
 4. Execute o arquivo `app.py` pelo Python.
 
 No terminal:
