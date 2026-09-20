@@ -8,24 +8,20 @@ O sistema recebe o tipo de imóvel e o consumo mensal de água em metros cúbico
 
 🛠️ Tecnologias utilizadas
 
-
-
-
-
-
-
-
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Repositório-black)
+![Água](https://img.shields.io/badge/Água-Consumo-00AEEF)
 
 ▶️ Como executar
-Tenha o Python instalado no computador.
-Baixe ou clone este repositório.
-Abra a pasta Consumo_agua.
-Execute o arquivo app.py pelo Python.
+1. Tenha o Python instalado no computador.
+2. Baixe ou clone este repositório.
+3. Abra a pasta Consumo_agua.
+4. Execute o arquivo app.py pelo Python.
 
-No terminal:
+ terminal:
 
-python app.py
+python `app.py`
+
 📋 Funcionamento
 
 O programa solicita:
@@ -36,9 +32,14 @@ Consumo mensal de água em m³.
 Depois, o sistema verifica as condições e apresenta uma mensagem de acordo com o consumo informado.
 
 📁 Estrutura do projeto
+
 Consumo_Agua/
+
 ├── app.py
+
 └── README.md
+
+
 👨‍💻 Autor
 
 Keslein Pereira
